@@ -8,9 +8,10 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 
 import { Home } from './components/pages/Home/Home.jsx'
 import { Introduccion } from './components/pages/Introduccion/Introduccion.jsx'
+import { Experiencia } from './components/pages/Experiencia/Experiencia.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <Introduccion></Introduccion>
+  <Experiencia></Experiencia>
   </StrictMode>,
 )
