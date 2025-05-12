@@ -9,6 +9,8 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 import { Home } from './components/pages/Home/Home.jsx'
 import { Introduccion } from './components/pages/Introduccion/Introduccion.jsx'
 import { Experiencia } from './components/pages/Experiencia/Experiencia.jsx'
+import { Historia } from './components/pages/Historia/Historia.jsx'
+import { Rutas } from './components/routes/Rutas/Rutas.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
