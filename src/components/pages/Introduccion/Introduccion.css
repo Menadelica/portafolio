@@ -1,0 +1,43 @@
+.profile-section {
+    padding: 4rem 0;
+}
+
+.profile-image {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    max-height: 600px;
+    object-fit: cover;
+    width: 100%;
+    
+    height: 300px;
+}
+
+.profile-title {
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 2rem;
+    color: #333;
+    font-size: 2.5rem;
+}
+
+.profile-text {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #444;
+    text-align: justify;
+    margin-bottom: 2rem;
+    padding-right: 1rem;
+}
+
+.skills-grid {
+    margin-top: 2rem;
+}
+
+.skill-card {
+    transition: transform 0.3s ease;
+    margin-bottom: 1rem;
+}
+
+.skill-card:hover {
+    transform: translateY(-5px);
+}

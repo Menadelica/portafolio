@@ -151,6 +151,8 @@ export function Experiencia() {
                     </div>
                 </div>
             </section>
-        </>
-    );
+        </>
+    
+    );
 }
+
