@@ -1,4 +1,4 @@
-.profile-section {
+/* .profile-section {
     padding: 4rem 0;
 }
 
@@ -40,4 +40,15 @@
 
 .skill-card:hover {
     transform: translateY(-5px);
+} */
+
+.caricatura{
+    width: 90%;
+    height: 500px;
+    margin-top: 25px;
+}
+
+.mena{
+    width: 100%;
+    margin-top: 25px;
 }

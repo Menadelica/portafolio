@@ -3,8 +3,8 @@ p{
 }
 
 h3{
-    font-family: 'Times New Roman', Times, serif;
-    color: blue;
+    font-family:monospace;
+    color: rgb(73, 49, 91);
 }
 
 .project-image {

@@ -10,7 +10,7 @@ export function Experiencia() {
             <section className="container mt-4">
                 <div className="row">
                     <div className="col-12">
-                        <h2>Mi Experiencia</h2>
+                        <h2 className='text-center'>Mi Experiencia</h2>
                         <hr />
                     </div>
                 </div>
@@ -31,7 +31,7 @@ export function Experiencia() {
                     <div className="col-md-6 mb-4">
                         <div className="card shadow h-100">
                             <div className="card-body">
-                                <h3 className="card-title">Uso de Git</h3>
+                                <h4 className="card-title">Uso de Git</h4>
                                 <ul className="list-unstyled">
                                     <li>Control de versiones</li>
                                     <li>git init, git add, git commit git status, git log</li>
@@ -48,7 +48,7 @@ export function Experiencia() {
                     <div className="col-md-6 mb-4">
                         <div className="card shadow h-100">
                             <div className="card-body">
-                                <h3 className="card-title">React</h3>
+                                <h4 className="card-title">React</h4>
                                 <ul className="list-unstyled">
                                     <li>¿Qué es React?</li>
                                     <li>JSX</li>
@@ -67,7 +67,7 @@ export function Experiencia() {
                     <div className="col-md-6 mb-4">
                         <div className="card shadow h-100">
                             <div className="card-body">
-                                <h3 className="card-title">Lógica de programación</h3>
+                                <h4 className="card-title">Lógica de programación</h4>
                                 <ul className="list-unstyled">
                                     <li>Pensamiento lógico y secuencial</li>
                                     <li>Algoritmos (pasos ordenados para resolver un problema)</li>
@@ -89,7 +89,7 @@ export function Experiencia() {
                     <div className="col-md-6 mb-4">
                         <div className="card shadow h-100">
                             <div className="card-body">
-                                <h3 className="card-title">Base de datos</h3>
+                                <h4 className="card-title">Base de datos</h4>
                                 <ul className="list-unstyled">
                                     <li>Qué es una base de datos</li>
                                     <li>Tipos de bases de datos</li>
@@ -111,7 +111,7 @@ export function Experiencia() {
                     <div className="col-md-6 mb-4">
                         <div className="card shadow h-100">
                             <div className="card-body">
-                                <h3 className="card-title">Maquetación HTML + CSS</h3>
+                                <h4 className="card-title">Maquetación HTML + CSS</h4>
                                 <ul className="list-unstyled">
                                     <li>Estructura básica de un documento HTML</li>
                                     <li>Etiquetas principales</li>
@@ -134,7 +134,7 @@ export function Experiencia() {
                     <div className="col-md-6 mb-4">
                         <div className="card shadow h-100">
                             <div className="card-body">
-                                <h3 className="card-title">Programación JS</h3>
+                                <h4 className="card-title">Programación JS</h4>
                                 <ul className="list-unstyled">
                                     <li>Sintaxis general</li>
                                     <li>Variables</li>

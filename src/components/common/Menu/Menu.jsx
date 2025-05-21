@@ -8,7 +8,7 @@ export function Menu() {
 
             <nav class="navbar navbar-expand-lg menu ">
                 <div class="container-fluid">
-                    <Link class="navbar-brand" to="/jimena">Leidy Jimena Noreña</Link>
+                   <Link className="navbar-brand bold-text" to="/jimena">Jimena Quiceno</Link>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -18,10 +18,10 @@ export function Menu() {
                                 <Link class="nav-link active" aria-current="page" to="/inicio">Inicio</Link>
                             </li>
                             <li class="nav-item">
-                                <Link class="nav-link" href="/jimena">Sobre mi</Link>
+                                <Link class="nav-link" to="/jimena">Sobre mi</Link>
                             </li>
                             <li class="nav-item">
-                                <Link class="nav-link" href="/proyectos">Mis proyectos</Link>
+                                <Link class="nav-link" to="/proyectos">Mis proyectos</Link>
                             </li>
                             <li class="nav-item">
                                 <Link class="nav-link " to='/experiencia' >Mi experiencia</Link>

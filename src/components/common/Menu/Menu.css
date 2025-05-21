@@ -1,3 +1,7 @@
 .menu{
-    background-color: blue;
+    background-color: rgb(207, 183, 183);
+}
+
+.bold-text {
+  font-weight: bold;
 }
